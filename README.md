@@ -16,10 +16,15 @@ Neste projeto foi criada uma base de dados chamada "biblioteca" com os seguintes
 Foram feitas as seguintes consultas:
 
 • Listagem de todos os autores;
+
 • Listagem de todos os livros;
+
 • Listagem de todos os utilizadores;
+
 • Listagem dos autores que estejam vivos (CLÁUSULA WHERE);
+
 • Listagem de todos os livros que tenham sido escritos posteriormente a 1900;
+
 • Listagem de todos os utilizadores que levaram mais de 10 livros e filtrar pelo nome.
 
 
